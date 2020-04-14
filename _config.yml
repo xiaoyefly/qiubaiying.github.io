@@ -18,10 +18,10 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     xiaoye 
-zhihu_username:     xiaoye
-github_username:    xiaoye
-facebook_username:  xiaoye.qiu.7
+ weibo_username:     小Y君 
+#zhihu_username:     xiaoye
+github_username:    xiaoyefly
+facebook_username:  http://zhengwuyang.com
 jianshu_username:   92423b2648e5
 #twitter_username:   xiaoyefly
 
@@ -104,11 +104,5 @@ friends: [
     },{
         title: "简书·BY",
         href: "http://www.jianshu.com/u/92423b2648e5"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
     }
 ]
