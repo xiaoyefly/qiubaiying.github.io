@@ -22,7 +22,7 @@ RSS: false
 zhihu_username:     xiaoye
 github_username:    xiaoye
 facebook_username:  xiaoye.qiu.7
-jianshu_username:   e71990ada2fd
+jianshu_username:   92423b2648e5
 #twitter_username:   xiaoyefly
 
 
@@ -100,10 +100,10 @@ service-worker: true
 friends: [
     {
         title: "WY",
-        href: "http://zhengwuyang.com"
+        href: "xiaoyefly.top"
     },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "http://www.jianshu.com/u/92423b2648e5"
     },{
         title: "Apple",
         href: "https://apple.com"
