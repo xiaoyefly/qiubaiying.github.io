@@ -2,7 +2,7 @@
 layout:     post
 title:      欢迎来到小叶的博客
 subtitle:   这是我的第一篇博客
-date:       2020-04-012
+date:       2020-04-13
 author:     BY 小叶
 header-img: img/post-bg-cook.jpg
 catalog: true
@@ -20,3 +20,4 @@ tags:
 https://help.github.com/en/github/searching-for-information-on-github/getting-started-with-searching-on-github
 
 ### :fa-file: 例子
+![](/post/search/searchImg1.png)
